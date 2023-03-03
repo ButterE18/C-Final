@@ -1,27 +1,3 @@
-// Ethan Nguyen 2/28/2023
-// 
-
-#include <iostream>
-#include <cstdlib>
-#include <ctime>
-#include <stdio.h>
-
-
-using namespace std; 
-int main()
-{
-	string username;
-	string name1;
-	string name2;
-	string name3;
-
-	cout << "Welcome to R.A.I.S.E (Random Assorted Interactive Story Emmulator)\n" "What's a great name I can call you by: ";
-	cin >> username; 
-
-
-
-
-
-	return 0;
-}
-
+I haven't started much on this final, but I have a general idea of what I will be working on as time progresses. 
+I plan to create an interactive storytelling game that takes advantage of the random numberator operation we covered a while back to create different story lines that the user can go through.
+So far, I have the introduction, but I will continue to work on it as time progresses.
